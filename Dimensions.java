@@ -7,6 +7,7 @@ public class Dimensions {
         this.width = width;
         this.hight = hight;
         this.depth = depth;
+        //comment
     }
 
     public int getWidth() {
